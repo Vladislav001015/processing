@@ -2,7 +2,7 @@ from tkinter import *
 import threading
 import time
 from pynput import keyboard
-
+# ffffffffffffffffffffffff
 
 CAPACITY = int(input('Введите размер буфера: '))
 
